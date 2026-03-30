@@ -1,5 +1,5 @@
 # Social-Media-Analytics-Audit-Case Study
-This is a business case study i had encountered while helping a Fashion &amp; Lifestyle Influencer revamp her profile and suggest changes for better reach and engagement.
+This is a real life business scenario I worked on while helping a Fashion &amp; Lifestyle Influencer revamp her profile and suggest changes for better reach and engagement. This is the business case scenario outlining the whole audit, findings and recommendations. (This repository documents the end-to-end analytical process — from data interpretation to actionable recommendations)
 
 
 ## Role: 
