@@ -1,5 +1,6 @@
-# Social-Media-Analytics-Audit-Fashion-Lifestyle-Influencer
-Social Media Analytics Audit - Fashion &amp; Lifestyle Influencer
+# Social-Media-Analytics-Audit-Case Study
+This is a business case study i had encountered while helping a Fashion &amp; Lifestyle Influencer revamp her profile and suggest changes for better reach and engagement.
+
 
 ## Role: 
 Independent Analyst | Type: Pro Bono Audit | Date: January 2026
@@ -48,18 +49,11 @@ Thumbnail quality — not compelling enough for scroll-stop behaviour
 Competitor caption and comment research not being done — missing audience sentiment signals
 Low interactive content — no polls, questions, or event-specific engagement (e.g., Saraswati Pujo audience prompts)
 
-## Recommendations Delivered
-
-For Boosting
-Focus on Kolkata. Howrah- for shops in Kolkata. Focus on regions that are nearest to the shops, making it feasible and hence high engagement
-
-For Campaign
-If it's an aesthetic shoot, focus on all the top cities and Bangladesh
-Also, depending on the language, set locations
+## Recommendations Delivered ##
 
 <img width="790" height="284" alt="image" src="https://github.com/user-attachments/assets/02d45ee8-e5a3-4201-915a-6886c469d7a2" />
 
-Posting Schedule as recommended
+Posting Schedule recommended
 
 | Time Window | Notes |
 |-------------|-------|
@@ -67,3 +61,43 @@ Posting Schedule as recommended
 |6:00 PM – 10:00 PM | For college/school-going audience | 
 | Fri–Sun: 9:00 AM – 12:00 PM & 7:00 PM – 10:00 PM | Weekend-specific | 
 |Best weekdays: Tue, Wed, Thu | Avoid Mon/Fri drop-off |
+
+## Paid Boost Targeting
+Hyperlocal boosting: Focus on Kolkata + Howrah — proximity to physical stores increases conversion feasibility
+Campaign-level targeting: Expand to all major West Bengal cities + Bangladesh for aesthetic/editorial content
+Language-based geo-targeting recommended for bilingual content
+
+## Age-Based Content Targeting
+Sherwani / men's ethnic wear → Target men 28+
+High-end sarees → Target women 30+
+Adjust age targeting dynamically based on content category, not a fixed profile
+
+## Event-Based Content Calendar ("Cash on Events")
+Recommended capitalising on high-purchase-intent periods:
+- Makar Sankranti
+- Saraswati Pujo
+- Valentine's Day
+
+## Content Strategy Add-ons (Optional Suggested)
+Create short introductory reels (10–20 sec) teasing brand collaborations across 5 locations — without naming brands directly, to build curiosity and drive feed exploration
+Separate versions for men's and women's ethnic wear segments
+Shift narration style based on competitor content research to differentiate voice
+
+## Inferences & Analyst Notes
+
+These were the basic inferences I drew from the data and further discussion:
+- The core issue was misalignment, not volume. The creator wasn't under-posting — the content was reaching the wrong slice of the audience at suboptimal times.
+- Geo-targeting was being applied too broadly. Boosting to all of India diluted spend. A hyperlocal-first approach would have improved cost-per-engagement significantly for commerce-linked content.
+- The 25–34 female segment is the power cohort — but the organic audience skewing under-20 and 35+ suggests the content tone may not have been resonating with the intended buyer persona.
+- Event-driven content was an untapped lever. Culturally anchored content (Pujo, Sankranti) performs disproportionately well in Bengali-speaking audiences and was being underutilised.
+- No data feedback loop existed. There was no process of reviewing comment sentiment or competitor captions, which meant content decisions were being made without iterative learning.
+
+## Skills Demonstrated
+- Audience segmentation and demographic interpretation
+- Geographic targeting strategy (hyperlocal vs. campaign-level)
+- Social media analytics (Meta Business Suite)
+- Content gap analysis
+- Data-to-recommendation translation
+- Stakeholder communication (verbal consultation + written deliverable)
+
+**All identifying details have been anonymised. Analysis conducted January 2026.
