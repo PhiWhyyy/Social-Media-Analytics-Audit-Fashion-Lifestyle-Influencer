@@ -43,11 +43,11 @@ Organic engagement skewed toward audiences under 20 and 35–40+, suggesting a m
 
 ## Content & Scheduling Gaps (Identified Drawbacks)
 
-Major time shift — posts going live outside peak engagement windows
-Weak keyword and caption research — captions not optimised for discoverability
-Thumbnail quality — not compelling enough for scroll-stop behaviour
-Competitor caption and comment research not being done — missing audience sentiment signals
-Low interactive content — no polls, questions, or event-specific engagement (e.g., Saraswati Pujo audience prompts)
+- Major time shift — posts going live outside peak engagement windows
+- Weak keyword and caption research — captions not optimised for discoverability
+- Thumbnail quality — not compelling enough for scroll-stop behaviour
+- Competitor caption and comment research not being done — missing audience sentiment signals
+- Low interactive content — no polls, questions, or event-specific engagement (e.g., Saraswati Pujo audience prompts)
 
 ## Recommendations Delivered ##
 
