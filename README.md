@@ -68,9 +68,9 @@ Campaign-level targeting: Expand to all major West Bengal cities + Bangladesh fo
 Language-based geo-targeting recommended for bilingual content
 
 ## Age-Based Content Targeting
-Sherwani / men's ethnic wear → Target men 28+
-High-end sarees → Target women 30+
-Adjust age targeting dynamically based on content category, not a fixed profile
+- Sherwani / men's ethnic wear → Target men 28+
+- High-end sarees → Target women 30+
+- Adjust age targeting dynamically based on content category, not a fixed profile
 
 ## Event-Based Content Calendar ("Cash on Events")
 Recommended capitalising on high-purchase-intent periods:
